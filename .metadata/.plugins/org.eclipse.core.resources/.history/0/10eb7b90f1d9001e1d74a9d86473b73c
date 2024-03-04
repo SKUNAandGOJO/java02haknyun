@@ -1,0 +1,9 @@
+package ex1;
+
+public class HelloWorld {
+	//main 문자 입력 후 + ctrl + space
+	public static void main(String[] args) {
+		
+	}
+
+}
